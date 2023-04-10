@@ -6,5 +6,5 @@
 - 📫 How to reach me: pawarpoonam1607@gmail.com
 - 😄 Pronouns: whatever you like to.
 - ⚡ Fun fact: figuring out.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=Poonam1607)](https://git.io/streak-stats)
 
