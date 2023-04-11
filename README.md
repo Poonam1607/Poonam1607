@@ -8,7 +8,7 @@
 - ⚡ Fun fact: figuring out.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Poonam1607)](https://git.io/streak-stats)
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Poonam1607&theme=vision-friendly-dark&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Poonam1607&theme=vision-friendly-dark&show_icons=true" />
 
 ## 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
