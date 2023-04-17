@@ -17,5 +17,5 @@ jobs:
           ref: main
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://poonam1607.hashnode.dev/"
+          feed_list: "https://poonam1607.hashnode.dev/rss.xml"
 
