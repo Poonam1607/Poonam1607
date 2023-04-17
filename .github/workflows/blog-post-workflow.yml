@@ -1,5 +1,4 @@
 name: "📚 Blog Updater"
-
 on:
   workflow_dispatch:
   schedule:
@@ -10,16 +9,10 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-      
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          USERNAME: 'hshndpoonam'
-          COUNT: 9
-          STYLE: "blog-left"
-          BLOG_URL: "https://hashnode.com/@hshndpoonam"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "HASHNODE"
+          commit_message: "Updated readme with the latest Hashnode Blog data"
+          feed_list: "https://poonam1607.hashnode.dev/rss.xml"
 
