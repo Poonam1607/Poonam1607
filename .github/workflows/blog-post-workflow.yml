@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */24 * * *' # Runs Every 24 Hours
+    - cron: '0 */24 * * *'
 
 jobs:
   update_blogs:
@@ -12,12 +12,12 @@ jobs:
     steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
-
+      
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'hshndpoonam' # Hashnode Username
-          COUNT: 2 # MAX Visisble
+          USERNAME: 'hshndpoonam'
+          COUNT: 9
           STYLE: "blog-left"
           BLOG_URL: "https://hashnode.com/@hshndpoonam"
         env:
