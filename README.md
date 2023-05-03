@@ -13,7 +13,7 @@ I am Poonam Pawar!    </h2>
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 - 🔭 I’m currently working on to contribute more in open-source projects.
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with all DevOps and cloud native beginner friendly issue.
+- 👯 I’m looking to collaborate with all DevOps and cloud native beginner friendly projects.
 - 💬 Ask me about DevOps tools
 - 📫 How to reach me: **pawarpoonam1607@gmail.com**
 - 😄 Pronouns: whatever you like to.
