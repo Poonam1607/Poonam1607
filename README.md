@@ -16,7 +16,6 @@ I am Poonam Pawar!    </h2>
 - 👯 I’m looking to collaborate with all DevOps and cloud native beginner friendly projects.
 - 💬 Ask me about DevOps tools
 - 📫 How to reach me: **pawarpoonam1607@gmail.com**
-- 😄 Pronouns: whatever you like to.
 - ⚡ Fun fact: figuring out.
 
 <br/>
